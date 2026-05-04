@@ -1,0 +1,5 @@
+Preprocessing Strategy,Accuracy,Precision,Recall,F1-score,AUC
+Numeric only + imputation,0.5857,0.5831,0.6163,0.5992,0.6233
+Numeric only + imputation + scaling,0.5864,0.5837,0.6174,0.6001,0.6232
+Numeric + categorical encoding,0.7244,0.7241,0.7297,0.7269,0.7898
+Full pipeline,0.7237,0.7234,0.729,0.7262,0.7898

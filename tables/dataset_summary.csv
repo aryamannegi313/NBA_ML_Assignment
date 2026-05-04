@@ -1,0 +1,8 @@
+Item,Value
+Dataset name,NBA Daily Leaders / NBA Player Stats 2024-25
+Rows,28265
+Columns,27
+Target variable,Result
+Task type,Binary classification
+Positive class,W = Win
+Negative class,L = Loss

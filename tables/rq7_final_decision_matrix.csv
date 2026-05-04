@@ -1,0 +1,6 @@
+Model,Predictive Performance,Interpretability,AUC,F1-score,Computational Cost,Practical Usefulness,Final Recommendation
+Logistic Regression,High,High,0.7898,0.7262,Low,High,Selected
+Gradient Boosting,High,Medium-Low,0.7936,0.7217,High,High,Not selected
+Random Forest,High,Medium,0.7973,0.7179,High,High,Not selected
+k-NN,Medium,Low,0.6406,0.6084,Low,Medium,Not selected
+Decision Tree,Low,High,0.6731,0.5541,Low,Medium,Not selected

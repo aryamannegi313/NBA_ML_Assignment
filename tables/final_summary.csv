@@ -1,0 +1,5 @@
+Item,Value
+Best model based on F1-score,Logistic Regression
+Best F1-score,0.7262
+Best AUC,0.7898
+Main note,The main model excludes +/- to reduce outcome leakage.
